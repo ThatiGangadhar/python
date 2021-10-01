@@ -1,4 +1,7 @@
 print("hello world!") 
 
 for i in range(10) :
-    print(i) 
+    print(i)  
+
+for j in range(3) :
+    print(j)
